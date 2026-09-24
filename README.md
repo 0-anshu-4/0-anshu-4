@@ -1,4 +1,4 @@
-# Hi, I'm Anshu 👋
+# Hi, I'm Anshu 
 
 B.E. Electronics & Communication Engineering student at Thapar Institute of Engineering & Technology (TIET), minoring in Computer Science. Currently looking for opportunities in **data & analytics** — SQL, Python, Power BI/Tableau.
 
